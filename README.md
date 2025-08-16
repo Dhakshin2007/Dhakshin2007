@@ -38,13 +38,6 @@
 
 ---
 
-### 🚀 Notable Projects  
-
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **QrGo** | Event Hosting & Management platform | [🌐 Visit](https://qrgo-weld.vercel.app/) |
-| **BLE Pay** | Bluetooth-based Payment Prototype | [🌐 Visit](https://blepay.vercel.app/) |
-
 
 ### 🚀 Notable Projects  
 
