@@ -40,6 +40,14 @@
 
 ### 🚀 Notable Projects  
 
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **QrGo** | Event Hosting & Management platform | [🌐 Visit](https://qrgo-weld.vercel.app/) |
+| **BLE Pay** | Bluetooth-based Payment Prototype | [🌐 Visit](https://blepay.vercel.app/) |
+
+
+### 🚀 Notable Projects  
+
 <p align="center">
   <a href="https://qrgo-weld.vercel.app/">
     <img src="https://img.shields.io/badge/QrGo-Event%20Hosting%20%26%20Management-blue?style=for-the-badge&logo=vercel" />
