@@ -1,4 +1,7 @@
-# Hey, I'm Dhakshin 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF700&width=435&lines=Hi%2C+I'm+Dhakshin+%F0%9F%91%8B;Embedded+Systems+%26+IoT+Enthusiast;Full+Stack+Web+Developer;DSA+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+
+
+
 
 ```json
 {
@@ -10,6 +13,7 @@
   "status": "Currently exploring DSA & building projects 🚀"
 }
 ```
+![Profile Views](https://komarev.com/ghpvc/?username=Dhakshin2007&color=blue&style=flat-square)
 
 ---
 
@@ -38,6 +42,13 @@
 
 ---
 
+[![Dhakshin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhakshin2007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
 
 ### 🚀 Notable Projects  
 
@@ -57,6 +68,8 @@
   <em>An innovative prototype enabling peer-to-peer payments via Bluetooth.</em>
 </p>
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Dhakshin2007&theme=darkhub&no-frame=true&margin-w=15)
 
 
 ### 🧑‍💻 Core Skills  
@@ -82,5 +95,9 @@
 - ⚡ Loves **building practical solutions & solving real-world problems**  
 
 ---
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31zrgc7ruynmmrpnmtsxr7b4a73e)
+
+
 
 ✨ *"Keep coding, keep building, keep growing!"* ✨  
