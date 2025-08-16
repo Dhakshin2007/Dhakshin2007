@@ -14,10 +14,14 @@
 ---
 
 ### 🌐 Connect with me  
-- [💼 LinkedIn](https://www.linkedin.com/in/dhakshinkotha/)  
-- [🌎 Portfolio](https://dhakshin-portfolio.vercel.app/)  
-- [📂 GitHub](https://github.com/Dhakshin2007)  
-- [🔗 Linktree](https://linktr.ee/dhakshinkotha)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhakshinkotha/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhakshin-portfolio.vercel.app/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhakshin2007) 
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dhakshinkotha)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kothadhakiw15)
+
+
 
 ---
 
