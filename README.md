@@ -34,16 +34,40 @@
 
 ---
 
-### 🛠️ Tech & Tools I Use  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+### 🚀 Notable Projects  
+
+<p align="center">
+  <a href="https://qrgo-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/QrGo-Event%20Hosting%20%26%20Management-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <br/>
+  <em>A seamless platform to host, manage, and streamline events.</em>
+</p>
+
+<p align="center">
+  <a href="https://blepay.vercel.app/">
+    <img src="https://img.shields.io/badge/BLE%20Pay-Bluetooth%20Payment%20Prototype-green?style=for-the-badge&logo=bluetooth" />
+  </a>
+  <br/>
+  <em>An innovative prototype enabling peer-to-peer payments via Bluetooth.</em>
+</p>
+
+
+
+### 🧑‍💻 Core Skills  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-FF5733?style=for-the-badge)  
+![Prompt Design](https://img.shields.io/badge/Prompt%20Design-6C63FF?style=for-the-badge)  
+![AI & Data Engineering](https://img.shields.io/badge/AI%20%26%20Data%20Engineering-2E7D32?style=for-the-badge)  
+
 
 ---
 
