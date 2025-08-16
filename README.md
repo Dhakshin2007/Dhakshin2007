@@ -6,9 +6,8 @@
 ```json
 {
   "role": "Aspiring Embedded Systems & IoT Engineer",
-  "country": "India",
-  "city": "Ropar",
-  "stack": ["C", "C++", "Python", "HTML", "CSS", "JavaScript", "Node.js"],
+  "country": "India ",
+  "city": "Narsaraopet , Andhra Pradesh ",
   "interests": ["DSA", "AI", "Embedded Systems", "IoT", "Problem Solving"],
   "status": "Currently exploring DSA & building projects 🚀"
 }
